@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Desafio Tabuada",
+    "slug": "desafio-tabuada-xtirian",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icone.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#03989e"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "xtirian.desafiotabuada",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "xtirian.desafiotabuada",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/icone.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cfaf5525-3a53-4c0d-ba44-cac9f8c1e7bd"
+      }
+    }
+  }
+}
